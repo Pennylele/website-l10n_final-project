@@ -1,8 +1,6 @@
-# website-l10n_final-project
 Website localization final project
-Group Member: 
 
-Project: 
+Group Member: Kay (Chi-Chien Feng), Lisa (Ning Li), Penny (Le Fang), Sophie (Di Yang)
 
 Project objective: 
 1. We will develop a website (by using HTML, CSS, JavaScript, and Ruby on Rails) where each of us will be responsible for developing a web page.
@@ -35,4 +33,5 @@ pseudo-translation → extract strings → translation using CAT tool (TEP) → 
 05/09           Testing and bug fixing
 
 Final Delivery:
+
 final project repo, including the source files and localized files on GitHub 
