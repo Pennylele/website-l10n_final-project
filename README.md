@@ -3,8 +3,11 @@ Website localization final project
 Group Member: Kay (Chi-Chien Feng), Lisa (Ning Li), Penny (Le Fang), Sophie (Di Yang)
 
 Project objective: 
+
 1. We will develop a website (by using HTML, CSS, JavaScript, and Ruby on Rails) where each of us will be responsible for developing a web page.
+
 2. After the website is built, we will localize each other’s web page into Simplified Chinese, Traditional Chinese, and Spanish.
+3. 
 3. We want to practice website development and get familiarized with the website localization workflow.
 
 Timeline: 
